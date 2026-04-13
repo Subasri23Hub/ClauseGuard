@@ -149,4 +149,4 @@ This tool provides AI-generated insights and is not a substitute for professiona
 
 ## Author
 
-ClauseGuard AI — Built as a real-world AI product for risk analysis and intelligent document understanding.
+Subasri B - GenAI Intern @ Sourcesys Technologies
